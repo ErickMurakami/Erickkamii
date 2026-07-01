@@ -1,4 +1,4 @@
-<h1 align="left">Erick Kamii</h1>
+<h1 align="left">Erick Murakami</h1>
 
 <h3 align="left">Java Backend Developer | Spring Boot | REST APIs | Clean Architecture</h3>
 
