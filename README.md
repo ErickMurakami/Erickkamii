@@ -78,5 +78,5 @@ Feel free to explore my projects and follow my technical growth as a backend dev
 <br>
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erickkamii&radius=16&theme=github-dark&area=true&order=5" height="300" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErickMurakami&radius=16&theme=github-dark&area=true&order=5" height="300" alt="GitHub activity graph" />
 </div>
