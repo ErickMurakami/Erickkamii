@@ -64,12 +64,12 @@ Feel free to explore my projects and follow my technical growth as a backend dev
 
 <div align="left">
 <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Erickkamii&show_icons=true&theme=dark&count_private=true&include_all_commits=true"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErickMurakami&show_icons=true&theme=dark&count_private=true&include_all_commits=true"
   height="150"
   alt="GitHub Stats."
 />
 <img
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Erickkamii&layout=compact&theme=dark"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ErickMurakami&layout=compact&theme=dark"
   height="150"
   alt="Top Languages."
 />
